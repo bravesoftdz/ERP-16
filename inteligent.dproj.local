@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/07/29 00:43:31.902.pas,D:\Erp inteligent 2015\frm_ValidaEstimacionGral.pas=</Transaction>
+    <Transaction>2015/07/29 00:43:31.902.dfm,D:\Erp inteligent 2015\frm_ValidaEstimacionGral.dfm=</Transaction>
+    <Transaction>2015/07/29 09:31:19.259.pas,D:\Erp inteligent 2015\frmBuscar.pas=</Transaction>
+    <Transaction>2015/07/29 09:31:19.259.dfm,D:\Erp inteligent 2015\frmBuscar.dfm=</Transaction>
+    <Transaction>2015/07/29 10:04:53.904.pas,D:\Erp inteligent 2015\frmCatalogodeDeducciones.pas=</Transaction>
+    <Transaction>2015/07/29 10:04:53.904.dfm,D:\Erp inteligent 2015\frmCatalogodeDeducciones.dfm=</Transaction>
+    <Transaction>2015/07/29 10:27:57.504.pas,D:\Erp inteligent 2015\frm_ValidaEstimacionGral.pas=</Transaction>
+    <Transaction>2015/07/29 10:27:57.504.dfm,D:\Erp inteligent 2015\frm_ValidaEstimacionGral.dfm=</Transaction>
+    <Transaction>2015/07/29 11:44:44.597.pas,D:\Erp inteligent 2015\frm_DespieceDX.pas=</Transaction>
+    <Transaction>2015/07/29 11:44:44.597.dfm,D:\Erp inteligent 2015\frm_DespieceDX.dfm=</Transaction>
+    <Transaction>2015/07/30 12:31:05.940.pas,D:\Erp inteligent 2015\frm_Conversiones.pas=</Transaction>
+    <Transaction>2015/07/30 12:31:05.940.dfm,D:\Erp inteligent 2015\frm_Conversiones.dfm=</Transaction>
+    <Transaction>2015/08/01 19:53:03.931.pas,D:\Erp inteligent 2015\frm_catalogoprofesiones.pas=D:\Erp inteligent 2015\frm_catalogomodulos.pas</Transaction>
+    <Transaction>2015/08/01 19:53:03.931.dfm,D:\Erp inteligent 2015\frm_catalogoprofesiones.dfm=D:\Erp inteligent 2015\frm_catalogomodulos.dfm</Transaction>
+    <Transaction>2015/08/02 20:57:42.504.pas,D:\Erp inteligent 2015\frm_contratosxusuario.pas=D:\Erp inteligent 2015\frm_Modulosxusuario.pas</Transaction>
+    <Transaction>2015/08/02 20:57:42.504.dfm,D:\Erp inteligent 2015\frm_contratosxusuario.dfm=D:\Erp inteligent 2015\frm_Modulosxusuario.dfm</Transaction>
+    <Transaction>2015/08/13 15:55:22.289.pas,D:\Erp inteligent 2015\frm_bancos.pas=</Transaction>
+    <Transaction>2015/08/13 15:55:22.289.dfm,D:\Erp inteligent 2015\frm_bancos.dfm=</Transaction>
+    <Transaction>2015/08/13 15:59:29.321.pas,D:\Erp inteligent 2015\frm_bancos.pas=</Transaction>
+    <Transaction>2015/08/13 15:59:29.321.dfm,D:\Erp inteligent 2015\frm_bancos.dfm=</Transaction>
+    <Transaction>2015/08/25 16:47:37.351.pas,D:\Erp inteligent 2015\frmEmpleados.pas=</Transaction>
+    <Transaction>2015/08/25 16:47:37.351.dfm,D:\Erp inteligent 2015\frmEmpleados.dfm=</Transaction>
+    <Transaction>2015/08/26 16:12:14.412.pas,D:\D2007_COMPONENTES\2007-DebenuPDFLibrary\DebenuPDFLibrary.pas=</Transaction>
+    <Transaction>2015/08/27 11:28:27.584.pas,D:\Erp inteligent 2015\Unit1.pas=D:\Erp inteligent 2015\frmDetalleErrores.pas</Transaction>
+    <Transaction>2015/08/27 11:28:27.584.dfm,D:\Erp inteligent 2015\Unit1.dfm=D:\Erp inteligent 2015\frmDetalleErrores.dfm</Transaction>
+    <Transaction>2015/12/03 08:50:35.166.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_SetupAlm.pas=D:\Codigos Delphi\Erp inteligent 2015\frm_SetupPU.pas</Transaction>
+    <Transaction>2015/12/03 08:50:35.166.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_SetupAlm.dfm=D:\Codigos Delphi\Erp inteligent 2015\frm_SetupPU.dfm</Transaction>
+    <Transaction>2015/12/17 07:10:58.813.pas,D:\Codigos Delphi\Erp inteligent 2015\frmCatalogoCuentas.pas=</Transaction>
+    <Transaction>2015/12/17 07:10:58.813.dfm,D:\Codigos Delphi\Erp inteligent 2015\frmCatalogoCuentas.dfm=</Transaction>
+    <Transaction>2015/12/17 07:15:16.476.pas,D:\Codigos Delphi\Erp inteligent 2015\frmCatalogoDeEquipos.pas=</Transaction>
+    <Transaction>2015/12/17 07:15:16.476.dfm,D:\Codigos Delphi\Erp inteligent 2015\frmCatalogoDeEquipos.dfm=</Transaction>
+    <Transaction>2015/12/17 07:19:57.294.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_Zincroligent.pas=</Transaction>
+    <Transaction>2015/12/17 07:19:57.294.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_Zincroligent.dfm=</Transaction>
+    <Transaction>2015/12/17 07:20:58.849.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_agregarConexion.pas=</Transaction>
+    <Transaction>2015/12/17 07:20:58.849.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_agregarConexion.dfm=</Transaction>
+    <Transaction>2015/12/17 07:21:07.478.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_editarConexiones.pas=</Transaction>
+    <Transaction>2015/12/17 07:21:07.478.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_editarConexiones.dfm=</Transaction>
+    <Transaction>2015/12/17 07:21:13.343.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_erroresDB.pas=</Transaction>
+    <Transaction>2015/12/17 07:21:13.343.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_erroresDB.dfm=</Transaction>
+    <Transaction>2015/12/17 07:21:23.661.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_zinc_parametros.pas=</Transaction>
+    <Transaction>2015/12/17 07:21:23.661.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_zinc_parametros.dfm=</Transaction>
+    <Transaction>2015/12/17 07:21:27.613.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_mensaje.pas=</Transaction>
+    <Transaction>2015/12/17 07:21:27.613.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_mensaje.dfm=</Transaction>
+    <Transaction>2015/12/17 07:21:41.853.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_erroresTabla.pas=</Transaction>
+    <Transaction>2015/12/17 07:21:41.853.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_Zinc_erroresTabla.dfm=</Transaction>
+    <Transaction>2015/12/21 15:31:07.407.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_ActividadesAnexoPU.pas=D:\Codigos Delphi\Erp inteligent 2015\frm_ActividadesAnexoPU3.pas</Transaction>
+    <Transaction>2015/12/21 15:31:07.407.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_ActividadesAnexoPU.dfm=D:\Codigos Delphi\Erp inteligent 2015\frm_ActividadesAnexoPU3.dfm</Transaction>
+    <Transaction>2015/12/21 15:32:24.521.pas,D:\Codigos Delphi\Erp inteligent 2015\frm_ActividadesAnexoPU3.pas=</Transaction>
+    <Transaction>2015/12/21 15:32:24.521.dfm,D:\Codigos Delphi\Erp inteligent 2015\frm_ActividadesAnexoPU3.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
